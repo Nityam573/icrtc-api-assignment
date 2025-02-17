@@ -1,4 +1,4 @@
-# Anakin SDE API Round - IRCTC
+# Work India SDE API Round - IRCTC
 
 # Tech Stack : NodeJS, ExpressJS and MySQL
 
